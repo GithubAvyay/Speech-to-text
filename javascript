@@ -1,0 +1,1 @@
+recognition.interimResults = true;
